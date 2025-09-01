@@ -1,0 +1,21 @@
+{
+  "name": "Idle BreakOut",
+  "short_name": "BreakOut",
+  "start_url": "index.html",
+  "display": "fullscreen",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "assets/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/thumbnail.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
